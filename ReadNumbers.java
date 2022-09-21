@@ -7,7 +7,7 @@ import java.io.FileNotFoundException;
 import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 
-
+//Reading excel file and fetching the datas
 public class ReadNumbers 
 {
 
